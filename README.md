@@ -15,11 +15,11 @@ Improve user experience in using Princess nourah University (PNU) metro .
 
 ## Team Members 
 
-Rahaf Aldosary
-Shouq Bin Tuwayam
-Shahad Ba Makshab
-Ameera Alsweed 
-Mashael Alharbi
+Rahaf Aldosary , 
+Shouq Bin Tuwayam , 
+Shahad Ba Makshab , 
+Ameera Alsweed  , 
+Mashael Alharbi , 
 
 
 #SwiftUi 
